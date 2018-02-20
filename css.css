@@ -1,3 +1,7 @@
+*{
+	margin: 0;
+	padding: 0;
+}
 #calculator{
 	width: 260px;
 	margin: 20px auto;
