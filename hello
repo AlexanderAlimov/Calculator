@@ -1,0 +1,29 @@
+[33mcommit 6724655c683424e3240913c42b94fb2e784424c2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: AlexanderAlimov <sasha.alimov5@gmail.com>
+Date:   Tue Feb 27 12:11:11 2018 +0200
+
+    Added README
+
+ README | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit c36feaa6a2cf8f6f0980a0a7bed656fcdd46aed8[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sasha <sasha.alimov5@gmail.com>
+Date:   Tue Feb 20 13:38:57 2018 +0200
+
+    commit 20.02.18
+
+ css.css   |  4 [32m++++[m
+ test.html | 19 [32m+++++++++++++++++++[m
+ 2 files changed, 23 insertions(+)
+
+[33mcommit 1a77387090aae4b38f6117c5646309987e404652[m
+Author: Alex Alimov <sasha.alimov5@gmail.com>
+Date:   Fri Dec 8 13:57:29 2017 +0200
+
+    first commit
+
+ Calculator.html |  19 [32m+++++++[m
+ css.css         |  42 [32m+++++++++++++++[m
+ script.js       | 163 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 3 files changed, 224 insertions(+)
